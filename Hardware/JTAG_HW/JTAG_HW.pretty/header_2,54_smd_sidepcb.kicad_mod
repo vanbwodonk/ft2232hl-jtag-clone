@@ -1,0 +1,8 @@
+(module header_2,54_smd_sidepcb (layer F.Cu) (tedit 602B3D29)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value header_2,54_smd_sidepcb (at 0 -0.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)

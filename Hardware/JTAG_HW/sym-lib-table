@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name usb_c16pin)(type Legacy)(uri ${KIPRJMOD}/../kicad-USB-C-master/USB-C-16pin-symbol/usb_c16pin.lib)(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name USB-C-COM-15111)(type KiCad)(uri ${KIPRJMOD}/../kicad-USB-C-master/USB-C-COM-15111.pretty)(options "")(descr ""))
+  (lib (name JTAG_HW)(type KiCad)(uri ${KIPRJMOD}/JTAG_HW.pretty)(options "")(descr ""))
+)
