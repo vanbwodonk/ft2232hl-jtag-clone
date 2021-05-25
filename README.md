@@ -1,5 +1,5 @@
 # FT2232HL-jtag-clone
-Digilent JTAG clone hardware + eeprom firmware (.bin). Support dual port, JTAG + Serial TTL.
+Digilent JTAG clone hardware + eeprom firmware (.bin). Support dual port, JTAG + Serial TTL. Hardware design using KiCad. 
 
 ![](Hardware/jtag-ft2232hl.png)
 
