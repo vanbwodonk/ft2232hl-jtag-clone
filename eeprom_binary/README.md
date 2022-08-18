@@ -1,5 +1,3 @@
-### Binary Files
-
 This folder already have 2 binary from 2 different board.
 
 1. Digilent SMT1 for FT2232HL base board.
