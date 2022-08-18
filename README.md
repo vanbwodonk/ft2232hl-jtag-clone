@@ -24,7 +24,7 @@ Serial UART:
 
 ### How To Flash EEPROM
 
-[link]([ft2232hl-jtag-clone/README.md at main · vanbwodonk/ft2232hl-jtag-clone · GitHub](https://github.com/vanbwodonk/ft2232hl-jtag-clone/blob/main/eeprom_binary/README.md))
+[how-to-flash](https://github.com/vanbwodonk/ft2232hl-jtag-clone/blob/main/eeprom_binary/README.md)
 
 ### Source :
 
